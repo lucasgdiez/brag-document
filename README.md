@@ -12,8 +12,6 @@ Keep a record of things I've done throughout the day, month, year, to have a doc
 What gets measured, gets improved.  - *Chris Do*
 
 
-## Here's the link http://tiny.cc/brag-document
-
 ### Inside the link you'll find: 
   * The public Notion document in which I track my progress. This gets updated daily.
   * A template to copy / modify to suit your needs.
